@@ -1,0 +1,11 @@
+{
+  "name": "get-u-coop-menu",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:ygkn/get-u-coop-menu.git",
+  "author": "Yugo Yagita <2000ygkn0713@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^1.17.0"
+  }
+}
